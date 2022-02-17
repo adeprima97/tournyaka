@@ -19,7 +19,7 @@ const Event = () => {
               <img src={ImageThree} alt='image3' />
               <p className='fs-2 fw-bolder mt-2'>Pangandaran</p>
               <p>
-                Pasi kalo wisata satu ini semua orang udah pada tau yah, pantai Pangandaran yang
+                Pasti kalo wisata satu ini semua orang udah pada tau yah, pantai Pangandaran yang
                 menjadi salah satu ikon Pangandaran mungkin bisa jadi destinasi yang cocok untuk di
                 kunjung
               </p>

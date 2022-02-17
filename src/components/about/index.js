@@ -43,7 +43,7 @@ const About = () => {
               </div>
               <div>
                 <p className='fs-5 fw-bold'>Bikin nyesel</p>
-                <p>Kamu bakal auo nyesel deh kalo ke pangandaran tanpa ditemani Tournyaka</p>
+                <p>Kamu bakal auto nyesel deh kalo ke pangandaran tanpa ditemani Tournyaka</p>
               </div>
             </div>
             <div className='d-flex gap-5 pt-3'>
